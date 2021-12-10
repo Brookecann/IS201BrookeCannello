@@ -1,0 +1,58 @@
+
+.body{
+    background-color: rgb(250, 219, 182);}
+
+  
+    .grid-container {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        margin: auto;
+        gap: 10px;
+  }
+
+  .grid-item {
+    text-align: center;
+    }
+
+  .grid-item img {
+      width: 100%;
+  }
+
+.img-fluid {
+     max-width: 900%;
+    height: 350px;} 
+    
+.img-fluid1{
+     max-width: 300%;
+     height: 306px}
+
+.edu {
+    background-size: cover; }
+
+.AA{
+    background-size: cover;}
+
+.Vol{
+    background-size: cover;}
+
+.skillsfont
+{color: burlywood; font-family: 'Playfair Display', serif;}
+
+.clubfont{
+    font-weight: bolder;
+}
+.apple{
+    font-style: italic;
+    --bs-text-opacity: 1;
+    color: grayscale(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;}
+
+.subheading{
+    color: rgb(240, 255, 198);
+    font-size: 250px;font-weight: bolder;}
+
+.purplemonkeydishwater{
+    font-family: 'Dosis', sans-serif;
+    color: rgb(240, 255, 198);
+
+}
+
